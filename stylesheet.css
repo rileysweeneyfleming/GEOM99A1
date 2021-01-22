@@ -9,8 +9,6 @@ from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
     padding-bottom:30%;
     position:relative;
     height:0;
-    padding-right: 10%;
-    padding-left: 10%;
 }
 .sharkmap iframe {
     left:0;
@@ -21,7 +19,6 @@ from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
 }
 /* end reference/*/
 #header {
-    background-color:#D7CEC7;
     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
     font-size: medium;
     color: #76323F;
