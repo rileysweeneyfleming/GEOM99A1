@@ -7,7 +7,7 @@ body {
     color: whitesmoke;
     margin-left: 600px;
     margin-right: 600px;
-    background-color: slategrey;
+    background-color: rgba(107, 101, 101, 0.466);
     border-radius: 30%;
     text-align: center;
 }
@@ -22,7 +22,8 @@ h2 {
     float: right;
 }
 .Paragraph {
-    background-color: slategrey;
+    background-color: rgba(107, 101, 101, 0.466);
+    ;
     width: 850px;
     font-size: larger;
     text-align: center;
