@@ -1,13 +1,10 @@
-#title {
-    background-color:#D7CEC7;
-    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
-    font-size: medium;
-    color: #76323F;
+body {
+    background-color: green;
 }
 #sharkmap {
     float: right;
 }
-h1 {
+#header {
     background-color:#D7CEC7;
     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
     font-size: medium;
