@@ -28,6 +28,9 @@ h2 {
     font-size: larger;
     text-align: center;
 }
+.Paragraph2 {
+    text-align: left;
+}
 #main {
     display: inline-block;
 }
