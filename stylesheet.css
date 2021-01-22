@@ -24,7 +24,6 @@ h2 {
 .Paragraph {
     background-color: slategrey;
     width: 850px;
-    height: 60px;
     font-size: larger;
     text-align: center;
 }
@@ -32,9 +31,7 @@ h2 {
     text-align: left;
     background-color: slategrey;
     width: 850px;
-    height: 60px;
     font-size: larger;
-    text-align: center;
 }
 #main {
     display: inline-block;
