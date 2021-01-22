@@ -8,6 +8,7 @@ body {
     padding-bottom:56.25%;
     position:relative;
     height:0;
+    text-align: right;
 }
 .sharkmap iframe {
     left:0;
