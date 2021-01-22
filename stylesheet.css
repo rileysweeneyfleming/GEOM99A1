@@ -5,7 +5,7 @@ body {
     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
     font-size: medium;
     color: whitesmoke;
-    background-color: rgba(107, 101, 101, 0.466);
+    background-color: rgb(112, 128, 144, 0.2);
     border-radius: 30%;
     text-align: center;
 }
@@ -20,7 +20,7 @@ h2 {
     float: right;
 }
 .Paragraph {
-    background-color: rgba(107, 101, 101, 0.466);
+    background-color:rgb(112, 128, 144, 0.5);
     ;
     width: 850px;
     font-size: larger;
@@ -28,7 +28,7 @@ h2 {
 }
 .Paragraph2 {
     text-align: left;
-    background-color: slategrey;
+    background-color: rgb(112, 128, 144, 0.5);
     width: 850px;
     font-size: larger;
 }
