@@ -3,8 +3,19 @@ body {
     background-image: url('Background.jpg');
     
 }
-#sharkmap {
+.sharkmap {
     float: right;
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.sharkmap iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }
 #header {
     background-color:#D7CEC7;
