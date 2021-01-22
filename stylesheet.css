@@ -21,15 +21,14 @@ h2 {
 }
 .Paragraph {
     background-color:rgb(112, 128, 144, 0.5);
-    ;
-    width: 850px;
+    width: 100%;
     font-size: larger;
     text-align: center;
 }
 .Paragraph2 {
     text-align: left;
     background-color: rgb(112, 128, 144, 0.5);
-    width: 850px;
+    width: 100%;
     font-size: larger;
 }
 #main {
