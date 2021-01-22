@@ -1,6 +1,6 @@
 body {
     background-image: url('Background.jpg');
-    
+    text-align: center;
 }
 /*reference: responsive embedded map css 
 from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
@@ -15,7 +15,7 @@ from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
     top:0;
     height:100%;
     width:100%;
-    position:absolute;
+    position:relative;
 }
 /* end reference/*/
 #header {
@@ -25,4 +25,5 @@ from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
 }
 h2 {
     margin-bottom: 0px;
+    text-align: center;
 }
