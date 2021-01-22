@@ -16,5 +16,5 @@ h2 {
     text-align: center;
 }
 .sharkmap {
-    text-align: right;
+    float: right;
 }
