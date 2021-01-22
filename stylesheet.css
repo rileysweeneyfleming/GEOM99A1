@@ -1,5 +1,4 @@
 body {
-    background-color: green;
     background-image: url('Background.jpg');
     
 }
@@ -12,13 +11,12 @@ from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
     height:0;
 }
 .sharkmap iframe {
-    left:100;
+    left:0;
     top:0;
-    height:50%;
-    width:50%;
+    height:100%;
+    width:100%;
     position:absolute;
 }
-
 /* end reference/*/
 #header {
     background-color:#D7CEC7;
