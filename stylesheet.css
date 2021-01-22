@@ -1,5 +1,7 @@
 body {
     background-color: green;
+    background-image: url('sgr-s23xDAYQBCo-unsplash.jpg');
+    /* Photo by https://unsplash.com/@sgr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText/*/
 }
 #sharkmap {
     float: right;
