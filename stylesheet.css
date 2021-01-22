@@ -16,8 +16,9 @@ h2 {
     text-align: center;
 }
 .sharkmap {
-    text-align: right;
+    float: left;
 }
 #Paragraph {
     width:20px;
+    float: left;
 }
