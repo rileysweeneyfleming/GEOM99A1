@@ -4,7 +4,6 @@ body {
     
 }
 .sharkmap {
-    float: right;
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
@@ -13,8 +12,8 @@ body {
 .sharkmap iframe {
     left:0;
     top:0;
-    height:100%;
-    width:100%;
+    height:50%;
+    width:50%;
     position:absolute;
 }
 #header {
