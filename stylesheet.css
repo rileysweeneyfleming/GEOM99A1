@@ -7,3 +7,9 @@ title {
 #sharkmap {
     align-content: center;
 }
+h1 {
+    background-color:#D7CEC7;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-size: medium;
+    color: #76323F;
+}
