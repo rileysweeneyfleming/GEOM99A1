@@ -3,12 +3,13 @@ body {
     background-image: url('Background.jpg');
     
 }
+/*reference: responsive embedded map css 
+from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
 .sharkmap {
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
     height:0;
-    text-align: right;
 }
 .sharkmap iframe {
     left:0;
@@ -17,6 +18,8 @@ body {
     width:50%;
     position:absolute;
 }
+
+/* end reference/*/
 #header {
     background-color:#D7CEC7;
     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
