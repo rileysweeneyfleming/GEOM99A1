@@ -20,7 +20,7 @@ h2 {
 }
 #Paragraph {
     width:20px;
-    float: left;
+    float: right;
 }
 #main {
     display: inline-block;
