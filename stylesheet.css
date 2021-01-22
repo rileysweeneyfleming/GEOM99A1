@@ -15,7 +15,7 @@ from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
     top:0;
     height:100%;
     width:100%;
-    position:relative;
+    position:static;
 }
 /* end reference/*/
 #header {
