@@ -2,23 +2,6 @@ body {
     background-image: url('Background.jpg');
     text-align: center;
 }
-/*reference: responsive embedded map css 
-from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
-.sharkmap {
-    overflow:hidden;
-    padding-bottom:30%;
-    position:relative;
-    height:0;
-}
-.sharkmap iframe {
-    left:0;
-    right:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-}
-/* end reference/*/
 #header {
     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
     font-size: medium;
@@ -31,4 +14,7 @@ from https://www.ostraining.com/blog/coding/responsive-google-maps//*/
 h2 {
     margin-bottom: 50px;
     text-align: center;
+}
+.sharkmap {
+    text-align: right;
 }
