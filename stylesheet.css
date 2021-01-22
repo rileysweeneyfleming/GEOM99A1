@@ -18,6 +18,9 @@ h2 {
 .sharkmap {
     text-align: right;
 }
+.sharkmap iframe {
+    float: right;
+}
 #Paragraph {
     width:20px;
     float: right;
