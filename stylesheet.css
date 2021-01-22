@@ -8,7 +8,7 @@ body {
     margin-left: 600px;
     margin-right: 600px;
     background-color: slategrey;
-    border-radius: 10%;
+    border-radius: 30%;
     text-align: center;
 }
 h2 {
@@ -21,4 +21,7 @@ h2 {
 #Paragraph {
     width:20px;
     float: left;
+}
+#main {
+    display: inline-block;
 }
