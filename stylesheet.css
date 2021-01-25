@@ -1,5 +1,6 @@
 body {
     background-image: url('Background.jpg');
+    background-repeat: no-repeat;
 }
 #header {
     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
