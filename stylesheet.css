@@ -1947,4 +1947,15 @@ body {
     color: #fff;
     text-decoration: none;
   }
-  
+
+ /* Riley Sweeney CSS Begins*/*
+
+ #heroShark {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background: url("img/Background.jpg") top center;
+    background-size: cover;
+    position: relative;
+    margin-top: 60px;
+  }
